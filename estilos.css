@@ -26,6 +26,8 @@ body{
 
     /* verticais, horizontais*/
     /*margin: 20px 40px;*/ 
+    /*PADDINg*/
+    padding: 15px;
 }
 .foto{
     background-color: pink;
