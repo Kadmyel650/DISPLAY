@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    
+}
+.carta{
+    /*border-width: 2px;/* espessura*/
+    /*border-style: solid;/* estilo*/
+    /*border-color: cadetblue;/*cor*/
+
+    /* espessura estilo cor*/
+    border: 2px solid cadetblue;
+    
+    /*MARGIN */
+    /* os 4 cantos possuem o mesmo valor*/
+    margin: 20px;
+
+    /*lados individuais*/
+    /*margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;*/
+
+    /* lados individuais juntos*/
+    /*top left right bottom*/
+    /*margin:10px 20px 30px 40px;*/
+
+    /* verticais, horizontais*/
+    /*margin: 20px 40px;*/ 
+}
+.foto{
+    background-color: pink;
+    width: 100%;/*largura*/
+    height: 100px;/* altura*/
+
+}
+
+.carta p{
+    background-color: aquamarine;
+
+    margin: 0;
+
+}
